@@ -1,0 +1,78 @@
+h1{
+    color: skyblue;
+    text-align: center;
+    margin-top:-5px;
+}
+.Damn{
+    background: linear-gradient(135deg,#71b7e6,#9b59b6);
+    align-items: center;
+    justify-content: center;
+}
+.dan{
+    color: gold;
+}
+.damo{
+    font-weight: lighter;
+    font-size: 21px;
+    margin-top:-20px;
+    color: black;
+
+}
+form{
+    margin: 20px;
+    height: 100vh;
+    padding: 10px;
+}
+.hum{
+    background: #fff;
+    padding: 10px;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 500px;
+    width: 400px;
+    margin-top: 50px;
+}
+.dive{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+#cow{
+   justify-content: space-between;
+   width: 41%;
+   height: 25px;
+   margin-bottom: -50px;
+}
+span{
+    max-width: 700px;
+    width: 50%;
+}
+.text{
+    height: 20px;
+    width: 40%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    transition: all 0.3s ease;
+    margin-bottom: 5px;
+}
+button{
+    background:linear-gradient(135deg,#71b7e6,#9b59b6);
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: #fff;
+    letter-spacing: 1px;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-bottom: -50px;
+}
+button:hover{
+    background: linear-gradient(-135deg,#71b7e6,#9b59b6);;
+}
